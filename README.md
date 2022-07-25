@@ -1,7 +1,7 @@
 # Nginx HTTP server and reverse proxy (nginx) S2I Sample Application
 
 This is a very basic sample application repository that can be built and deployed
-on UTCCP using the [Nginx HTTP server and a reverse proxy builder image](https://github.com/utccp/nginx-container).
+on UCCPS using the [Nginx HTTP server and a reverse proxy builder image](https://github.com/utccp/nginx-container).
 
 The application serves a single static html page via nginx.
 
