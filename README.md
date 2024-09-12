@@ -13,7 +13,7 @@ $ docker run -p 8080:8080 mynginximage
 $ # browse to http://localhost:8080
 ```
 
-You can also build and deploy the application on OpenShift, assuming you have a
+You can also build and deploy the application on UTCCP, assuming you have a
 working `oc` command line environment connected to your cluster already:
 
 `$ oc new-app centos/nginx-112-centos7~https://github.com/utccp/nginx-ex`
